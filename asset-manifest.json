@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/code-phase-2-bot/static/css/main.e6c13ad2.css",
+    "main.js": "/.github.io/code-phase-2-bot/static/js/main.ad190092.js",
+    "static/js/787.d0a2ca49.chunk.js": "/.github.io/code-phase-2-bot/static/js/787.d0a2ca49.chunk.js",
+    "index.html": "/.github.io/code-phase-2-bot/index.html",
+    "main.e6c13ad2.css.map": "/.github.io/code-phase-2-bot/static/css/main.e6c13ad2.css.map",
+    "main.ad190092.js.map": "/.github.io/code-phase-2-bot/static/js/main.ad190092.js.map",
+    "787.d0a2ca49.chunk.js.map": "/.github.io/code-phase-2-bot/static/js/787.d0a2ca49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad190092.js"
+  ]
+}
